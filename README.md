@@ -20,3 +20,16 @@ Pauses so the user can read the output.
 ![image](https://github.com/user-attachments/assets/c7776e0b-b314-4c00-b501-250ee24bae96)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________
+
+![image](https://github.com/user-attachments/assets/83908074-99b8-4d7a-bdf4-f57921dd1d2c)
+
+This bash function named add_task() allows a user to:
+Type a new task.
+Save it to todo.txt.
+Get a success message.
+Pause before returning to the menu or next step.
+
+![image](https://github.com/user-attachments/assets/153294f4-77c3-4e19-86ab-5e443eeaf464)
+
+_________________________________________________________________________________________________________________________________________________________________________________________________
+
