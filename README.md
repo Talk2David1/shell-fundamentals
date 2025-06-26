@@ -56,3 +56,9 @@ Accepts user input.
 Calls the appropriate function (view, add, delete).
 Keeps running until the user chooses to exit.
 It ties all the previously defined functions together into a complete command-line to-do list app.
+
+![image](https://github.com/user-attachments/assets/a91b7eff-942d-4f27-8102-637b7434974b)
+
+N/B: To run this script in the terminal, cd into the Folder that contains the todo.sh script, enter "chmod +x todo.sh" to avoid getting Permission denied error and "./todo.sh" to run it
+
+
