@@ -51,6 +51,7 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/2fc06d9a-083f-4e20-9757-9aa6ee840972)
 
 This is the interactive control flow of the script. It:
+
 Shows the menu.
 Accepts user input.
 Calls the appropriate function (view, add, delete).
