@@ -51,12 +51,11 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/2fc06d9a-083f-4e20-9757-9aa6ee840972)
 
 This is the interactive control flow of the script. It:
-
-Shows the menu.
-Accepts user input.
-Calls the appropriate function (view, add, delete).
-Keeps running until the user chooses to exit.
-It ties all the previously defined functions together into a complete command-line to-do list app.
+Shows the menu. 
+Accepts user input. 
+Calls the appropriate function (view, add, delete). 
+Keeps running until the user chooses to exit. 
+It ties all the previously defined functions together into a complete command-line to-do list app. 
 
 ![image](https://github.com/user-attachments/assets/a91b7eff-942d-4f27-8102-637b7434974b)
 
