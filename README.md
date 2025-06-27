@@ -59,6 +59,9 @@ It ties all the previously defined functions together into a complete command-li
 
 ![image](https://github.com/user-attachments/assets/a91b7eff-942d-4f27-8102-637b7434974b)
 
-N/B: To run this script in the terminal, cd into the Folder that contains the todo.sh script, enter "chmod +x todo.sh" to avoid getting Permission denied error and "./todo.sh" to run it
+_________________________________________________________________________________________________________________________________________________________________________________________________
+
+N/B: touch todo.sh is used to create a script named todo.sh
+To run this script in the terminal, cd into the Folder that contains the todo.sh script, enter "chmod +x todo.sh" to avoid getting Permission denied error and "./todo.sh" to run it
 
 
